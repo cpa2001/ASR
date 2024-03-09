@@ -1,6 +1,2 @@
-# 忽略Subtitle文件夹下alice's group的所有文件夹
 Subtitle/alice's group/*
 Subtitle/.idea/*
-
-# 但不忽略Jan 10, 2022 0351 PM的文件夹
-#!Subtitle/alice's group/Jan\ 10,\ 2022\ 0351\ PM/
