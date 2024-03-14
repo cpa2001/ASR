@@ -4,3 +4,5 @@
 3. run cut_audio to cut the m4a audio according to json and convert audio into flac.
 4. run whisper_inference to use whisper predicting dataset.
 5. (optional) run evaluate_statistics to evaluate total CER of whole json document.
+6. (optional) run commonvoice_inference to evaluate on Common Voice 16.1 dataset.
+
